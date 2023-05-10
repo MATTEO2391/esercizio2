@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+}
+
+.testa{
+  width: 20%;
+}
+
+.titolo {
+    background-color: #fefbf1;
+    border-top: 1px solid #ffd977;
+    padding: 1rem;
+  }
+
+.focaccia{
+    display: inline-block;
+    width: 50%;
+    font-size: large;
+  }
+    
+.sottotitolo{
+    width: 50%;
+    font-size: 110%;
+    margin-left: 25%;
+    text-align: left;
+}
+
+.featured{
+    border: 0%;
+    padding: 0%;
+    margin: 0%;
+    margin-left: 25%;
+    text-align: left;
+    font-size: 45%;
+ }
+
+ nav{
+    margin-left: 25%;
+    text-align: left;
+ }
+
+ .finale{
+    margin-left: 25%;
+    text-align: left;
+    width: 50%;
+}
+footer{
+  margin-left: 25%;
+  text-align: left;
+}
+
